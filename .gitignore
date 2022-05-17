@@ -13,5 +13,6 @@ gauge_bin
 # Gauge - java class target dir
 target
 
+#Idea folder
 .idea
 
